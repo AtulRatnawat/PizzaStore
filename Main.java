@@ -3,13 +3,6 @@
 	import java.util.*;
 	import java.io.FileInputStream;
 	import java.io.IOException;
-	
-/*	Group09 Members:
-    20UCC026        ATUL KUMAR RATNAWAT
-	20UCC033        BHAVYA KUMAR GARG
-	20UCC054        JATIN SHARMA
-	20UCC024        ASHISH RAJ
-*/
 
                               
 public class Main 
